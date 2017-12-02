@@ -1,4 +1,4 @@
-package hackathon;
+
 
 public class HeavyArmor extends Armor{
     final int BASE_DEFENSE = 12;
