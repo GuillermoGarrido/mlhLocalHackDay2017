@@ -1,5 +1,5 @@
 
-package hackathon;
+
 
 public class GreatRestore extends Consumable
 {
