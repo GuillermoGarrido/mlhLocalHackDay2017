@@ -1,5 +1,4 @@
 
-package hackathon;
 
 public class Sword extends Weapon
 {
