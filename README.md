@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/GuillermoGarrido/mlhLocalHackDay2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 blank is a RPG in which you control one of four different characters of different classes (Mage, Paladin, Rogue, and Tank).
 
 ### Markdown
