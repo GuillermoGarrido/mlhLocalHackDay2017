@@ -1,6 +1,4 @@
 
-package hackathon;
-
 public class Chainmail extends Armor
 {
    final int BASE_DEFENSE = 9;
