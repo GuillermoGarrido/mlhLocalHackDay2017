@@ -28,6 +28,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Types of Items
+1. <b>Weapons</b>
+
+Weapons can be used to fight the creatures that you will encounter on your quest. Different classes have access to different weapons (e.g. Rogues can use daggers), and these weapons can be upgraded as you progress in the game. 
+  
+2. **Armor**
+  
+
 ### Download Link
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuillermoGarrido/mlhLocalHackDay2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
