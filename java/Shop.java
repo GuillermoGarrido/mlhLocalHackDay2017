@@ -1,4 +1,4 @@
-package hackathon;
+
 
 public class Shop extends Room
 {
