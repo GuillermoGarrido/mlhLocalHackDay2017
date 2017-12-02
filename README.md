@@ -41,7 +41,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Weapons can be used to fight the creatures that you will encounter on your quest. Different classes have access to different weapons (e.g. Rogues can use daggers), and these weapons can be upgraded as you progress in the game. 
   
 2. **Armor**
-  
+
+Insert text here
+
+3. **Consumables**
+
+Insert text here
 
 ### Download Link
 
