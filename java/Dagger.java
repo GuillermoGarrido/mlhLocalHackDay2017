@@ -1,5 +1,5 @@
 
-package hackathon;
+
 
 public class Dagger extends Weapon
 {
