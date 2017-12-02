@@ -1,5 +1,5 @@
 
-package hackathon;
+
 import java.io.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
