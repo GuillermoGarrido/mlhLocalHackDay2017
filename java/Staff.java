@@ -1,5 +1,5 @@
 
-package hackathon;
+
 
 public class Staff extends Weapon
 {
