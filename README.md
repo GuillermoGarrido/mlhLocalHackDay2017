@@ -42,11 +42,11 @@ Weapons can be used to fight the creatures that you will encounter on your quest
   
 2. **Armor**
 
-Insert text here
+Like weapons, armor can be upgraded as you progress in the game. Different classes have different types of armor. 
 
 3. **Consumables**
 
-Insert text here
+Consumables can be spent for upgrades and other "stat buffs". 
 
 ### Download Link
 
