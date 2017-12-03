@@ -4,5 +4,19 @@
 @import "{{ site.theme }}";
 
 p {
-  font-family: Impact;
+  font-family: Helvetica;
+}
+
+a {
+  color: #8acc25;
+}
+
+.button {
+  text-align: center; 
+  margin: 0 auto; 
+  height: 50px;
+  width: 150px;
+  font-family: Helvetica;
+  background-color: #8acc25;
+  color: #fff;
 }
